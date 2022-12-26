@@ -24,7 +24,7 @@ print(result)
 
 ```
 ## Output:
-![output](/inverse/ot.png)
+![ot](https://user-images.githubusercontent.com/118344695/209548896-7f7f83fb-3872-43d4-8071-c5d50bb36882.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
